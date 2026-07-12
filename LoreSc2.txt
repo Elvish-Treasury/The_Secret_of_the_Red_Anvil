@@ -1,0 +1,84 @@
+-- Вот и эльфийский лес! Гм, раньше он не казался мне таким жутким. 
+-- Наши предки не боялись драться с эльфами в их лесах. Нам тоже придётся, иначе Арбальда не спасти.
+
+-- Here's the elvish forest! Hm, it didn't look so scary before.
+-- Our ancestors weren't scared to fight elves in their woods. And we must fight too, if we want to save Arbald.
+
+-- Как думаешь, куда они его потащили? 
+-- В округе есть только один город эльфов. Думаю, они пошли туда. Но если мы не поспеем, эльфы утащат Арбальда вглубь своих владений, и тогда -- пиши пропало! 
+-- Этого не случится! Вперёд!
+
+-- Where do you think they've taken him?
+-- There's only one elvish town nearby. I think they went there. But if we don't make it in time, the elves will drag Arbald deep into their domain, and then he's as good as dead.
+-- This won't happen! Forward!
+
+-- Хороший кабанчик. На следующем привале будет чем поживиться!
+-- Nice boar. That'll make a fine meal at the next stop!
+
+-- Гляди, это же гномий форт времён войны с эльфами. 
+-- Не нравится мне это дерево... 
+-- Мерзкие пещерники, снова пришли вредить деревьям! Ну уж нет! Деревья вернут ваши груды камней в землю. А с ними -- и ваши кости! 
+-- Оно говорит! 
+-- Сейчас замолкнет! А ну, ребята, руби его! 
+
+-- Look, this is a dwarvish fort from the time of the war with the elves.
+-- I don't like that tree...
+-- Filthy cave-creepers, you've come to harm the trees again! No more! The trees will push your heaps of stone back into the earth – and your bones with them!
+-- It speaks!
+-- Soon it will go silent! Come on, lads, chop it down!
+
+-- Я возвращаюсь в землю... Но скоро, и вы, пещерники, вернётесь тоже! 
+-- Конечно, как только вырвем Арбальда из лап твоих подлых хозяев. 
+
+-- I return to the earth... But soon you, cave-creepers, return as well!
+-- Of course, as soon as we save Arbald from your vile masters' paws.
+
+-- Под корнями дерева что-то есть. Похоже, это старый боевой топор. 
+
+-- There's something under the roots of the tree. It looks like an old war axe.
+
+-- Это не просто топор, это же Эльфоруб, бьющий без промаха! В былые времена, вид этого оружия повергал эльфов в ужас. Нам очень повезло найти его!
+
+-- That's no ordinary axe, it's the Elfchopper that never misses! In the old days, the mere sight of this weapon struck terror into the elves. We're very lucky to have found it!
+
+-- Смотрите, пещера! Может, через неё можно пробраться в город эльфов? 
+-- Размечтался. Это логово гигантского паука, и, похоже, в его сетях кто-то есть. 
+
+-- Look, a cave! Maybe we can reach the elvish town through it?
+-- Keep dreaming! That's a giant spider's lair, and it seems someone's in its webs.
+
+-- Ненавижу пауков! 
+
+-- Hate spiders!
+
+-- Это что, дракон? 
+-- Не дракон, но его потомок, как и весь мой народ. Меня зовут Рашакан. Мой клан прилетел сюда из далёких мест на охоту, но добычей стали мы сами. Теперь все мои родичи мертвы, а моё имя покрыто позором. Сразитесь со мной -- я хочу умереть смертью воина! 
+-- Погоди, Рашакан. Ты умеешь дышать огнем? 
+-- Да. 
+-- И насколько сильно твоё пламя? 
+-- Достаточно, чтобы расплавить ваши доспехи! 
+-- Тогда присоединяйся к нам, Рашакан! Наш клан живёт кузнечным делом. С твоим драконьим пламенем, мы сможем выковать невиданные вещи! 
+-- Мой народ почитает кузнецов, и сам я не раз становился у горна. Я бы пошёл с вами, но моя охота ещё не окончена. Я не успокоюсь, пока не сложу гору трупов из обитателей этого леса, или не погибну! 
+-- Мы как раз идём в город эльфов, чтобы спасти нашего мастера. Чую, будет битва. Если пойдёшь с нами, гора трупов тебе обеспечена. 
+-- Гр, хорошо! Я присоединюсь к вам.
+
+-- What's that, a dragon?
+-- Not a dragon but his descendant, as is all my kin. My name is Rashakan. My clan flew here from faraway lands to hunt, but we became the prey. All my clanmates are dead and my name is covered in shame. Fight me - I want to die a warrior's death!
+-- Hold on, Rashakan, can you breathe fire?
+-- Yes.
+-- And how strong is your flame?
+-- Strong enough to melt your armour!
+-- Then join us, Rashakan! Our clan lives by the forge. With your dragon flame we'll be able to forge unimaginable things!
+-- My kin honours smiths, and I myself have worked the forge many a time. I would go with you but my hunt isn't yet finished. I won't rest until I have piled a mountain of corpses of all who dwell in this forest, or die trying!
+-- Actually we're going to the elvish town, to save our master. I sense a battle is coming. If you join us, a mountain of corpses is a sure thing.
+-- Gr, well! I join you.
+
+-- Не такой уж и жуткий этот лес. Мы почти добрались. 
+-- Скоро мы встретимся лицом к лицу с эльфами. 
+-- Эльфы! Больше проблем, чем мяса! Гадкая добыча! Перережем их! 
+-- Лишь бы было не слишком поздно!
+
+-- This forest isn't so scary after all. We're almost there.
+-- Soon we'll meet the elves face to face.
+-- Elves! More trouble than meat! Foul prey! Cut them down!
+-- If only we aren't too late!
