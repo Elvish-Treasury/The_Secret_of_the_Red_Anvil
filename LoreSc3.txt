@@ -1,0 +1,74 @@
+Третья миссия: 
+
+-- Эй, эльфы! Мы знаем, что Арбальд у вас. Отпустите его, и разойдёмся по-добру по-здорову! 
+-- Что вы здесь делаете? Дикие звери должны были разорвать вас на части!
+-- У наших молотов были другие планы. Отпусти Арбальда, если не хочешь познакомиться с ними поближе.
+-- Избавь меня от своих жалких угроз, гном, и возвращайся в свои пещеры. Мы отпустим Арбальда, когда он научит нас ковать стальные доспехи для эльфов. 
+-- Похоже, тот спор и впрямь не прошёл даром... 
+-- Чепуха! Арбальд ни за что не раскроет вам своих секретов!
+-- Может быть, не сейчас. Но вы, гномы, слишком дорожите своим ремеслом, а Арбальд уже не молод. Когда он почувствует приближение смерти, думаешь, он позволит своим секретам исчезнуть вместе с ним? Я сомневаюсь. И у меня достаточно времени, чтобы это проверить. 
+-- И почему это секреты Арбальда исчезнут вместе с ним? 
+-- Это очевидно. Арбальд ещё не передал их никому из вас, иначе вы бы не стали так отчаянно его спасать. 
+-- Раз уж вам так нужны доспехи, почему бы вам просто не купить их у нас? Зачем начинать войну? 
+-- Орки становятся всё сильнее. Я не допущу, чтобы выживание моего народа зависело от ваших переменчивых интересов. К тому же, как я могу быть уверен, что орки не захватят вас? Вы едва способны отогнать троллей от своих границ. 
+-- Мерзавец! Ты сам воспользовался нападением троллей, не удивлюсь, если ты их и подослал! 
+-- Я всё сказал. Ступай прочь, или умри от наших стрел. 
+-- Без Арбальда я никуда не пойду! Вперёд, ребята, пусть сталь заглушит их надменные речи!
+
+-- Listen here, elves! We know you hold Arbald. Let him go, and we'll part away without trouble!
+-- What are you doing here? Wild beasts should have torn you to pieces!
+-- Our hammers had other plans. Free Arbald if you don't want to get to know them better.
+-- Spare me your pitiful threats, dwarf, and go back to your caves. We'll let Arbald go when he teaches us how to forge steel armour for the elves.
+-- So, that quarrel wasn't for nothing...
+-- Nonsense! Arbald will never reveal his secrets to you!
+-- Maybe not now. But you dwarves cherish your craft too much, and Arbald isn't young. When he feels his death approaching, do you think he'll let his secrets perish with him? I doubt it. And I have enough time to find out.
+-- And what makes you think Arbald's secrets would perish with him?
+-- It's obvious. Arbald hasn't passed them on to any of you yet, otherwise you wouldn't rush to save him so desperately.
+-- If you need that armour so much, why wouldn't you just buy it from us? Why start a war?
+-- Orcs are growing stronger and stronger. I won't let the survival of my people depend on your ever-changing interests. Moreover, how can I be sure the orcs won't conquer you? You're barely able to drive the trolls away from your borders!
+-- Scumbag! You took advantage of the trolls' raid, I wouldn't be surprised to learn you sent them youself!
+-- I have spoken. Go away or perish by our arrows.
+-- I won't go without Arbald! Forward, lads, let the steel muffle their arrogant speeches!
+
+-- Кто из вас, недоумков, сказал эльфам, что я могу выковать для них броню?!
+-- Я сказал, мастер, но разве это не так? 
+-- Фарин, ты болван! Даже если бы это было возможно, с какой стати эльфам знать об этом?! 
+-- И что, чёрт возьми, за дракон вместе с вами?! 
+-- Уладим это дома, мастер. Надо выбираться отсюда. 
+-- Брим! Хоть один гном с головой на плечах! Но как, во имя предков, нам сбежать от эльфов в их же лесу?! 
+-- Я вижу холмы на северо-востоке. Там мы сможем оторваться от эльфов. 
+-- Молчи, Фарин... Хотя мысль дельная! Ну и чего вы стоите, как вкопанные?! Бегом! 
+
+-- Which of you dumbheads told the elves that I can forge armour for them!?
+-- I did, master, but isn't it true?
+-- Farin, you idiot! Even if it were possible, why on earth should the elves know that?!
+-- And what in the blazes is that dragon doing with you?!
+-- Let's settle this back home, master. We need to get out of here.
+-- Brim! At least there's one dwarf here with a good head on his shoulders! But how, by the Ancestors, are we supposed to escape the elves in their own forest?!
+-- I see hills to the north-east. There we can outrun them.
+-- Silence, Farin... Though that's a good idea! What are you standing there for? Run!
+
+
+-- Мы оторвались! 
+-- Вот доберемся до дома -- я с вам обоих шкуру спущу! 
+
+-- We shook them off!
+-- Once we get home, I’ll skin you both alive!
+
+-- Мы явились по вашему зову, господин. 
+-- Схватите нарушителей и бросьте их в темницу. 
+-- Ой-ей. Эльфы нас окружают. 
+-- *глоток* 
+
+-- We have come at your summons, My Lord.
+-- Seize the intruders and throw them into the dungeon!
+-- Uh-oh. The elves are surrounding us.
+-- *gulp*
+
+-- Я не паду от руки гнома! 
+-- Трус! Он сбежал с помощью своих магических фокусов! 
+-- Худо будет, когда он вернётся. Нужно спешить.
+
+-- I won't fall by a dwarf's hand!
+-- Coward! He fled with his magic tricks!
+-- We'll be in trouble when he returns. We have to hurry.
